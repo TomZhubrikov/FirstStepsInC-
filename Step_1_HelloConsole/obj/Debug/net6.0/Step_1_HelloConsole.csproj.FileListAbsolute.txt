@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\bin\Debug\net6.0\Step_1_HelloConsole.exe
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\bin\Debug\net6.0\Step_1_HelloConsole.deps.json
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\bin\Debug\net6.0\Step_1_HelloConsole.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\bin\Debug\net6.0\Step_1_HelloConsole.dll
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\bin\Debug\net6.0\Step_1_HelloConsole.pdb
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.dll
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\refint\Step_1_HelloConsole.dll
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.pdb
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\Step_1_HelloConsole.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\For general development\GeekBrains\C#\First_steps\Step_1_HelloConsole\obj\Debug\net6.0\ref\Step_1_HelloConsole.dll
